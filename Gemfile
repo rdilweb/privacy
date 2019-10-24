@@ -1,4 +1,5 @@
-source 'https://www.rubygems.org'
+source 'https://rubygems.org/'
 
-gem 'PickleCore', '~> 0.1.0'
+gem 'picklecore', '~> 0.2.0'
+gem 'jekyll-sitemap'
 gem 'tzinfo-data'
