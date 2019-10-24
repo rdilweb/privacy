@@ -29,6 +29,8 @@ GEM
       safe_yaml (~> 1.0)
     jekyll-default-layout (0.1.4)
       jekyll (~> 3.0)
+    jekyll-feed (0.12.1)
+      jekyll (>= 3.7, < 5.0)
     jekyll-relative-links (0.6.0)
       jekyll (~> 3.3)
     jekyll-sass-converter (1.5.2)
@@ -69,6 +71,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  jekyll-feed
   jekyll-sitemap
   picklecore (~> 0.5.0)
   tzinfo-data

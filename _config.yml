@@ -1,5 +1,6 @@
 theme: picklecore
 name: Privacy by RDIL
+title: Privacy by RDIL
 description: A site for all my thoughts, complaints, and worries on privacy in our technology-dependent world.
 index_on_google: true
 url: https://privacy.rdil.rocks
@@ -10,3 +11,9 @@ statuspage: https://status.rdil.rocks
 pgp: https://rdil.rocks/pgp.txt
 plugins:
   - jekyll-sitemap
+  - jekyll-feed
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+keywords: "privacy,rdil,blog,thoughts,writing"
