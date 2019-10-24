@@ -4,5 +4,9 @@ description: A site for all my thoughts, complaints, and worries on privacy in o
 index_on_google: true
 url: https://privacy.rdil.rocks
 twitter_username: rdil_pickle
+email: me@rdil.rocks
+devto: rdil
+statuspage: https://status.rdil.rocks
+pgp: https://rdil.rocks/pgp.txt
 plugins:
   - jekyll-sitemap
