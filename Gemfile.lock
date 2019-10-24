@@ -47,7 +47,7 @@ GEM
     mercenary (0.3.6)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
-    picklecore (0.5.0)
+    picklecore (0.5.2)
       jekyll (>= 3.5, < 5.0)
       jekyll-default-layout (= 0.1.4)
       jekyll-relative-links (= 0.6.0)
@@ -73,7 +73,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll-feed
   jekyll-sitemap
-  picklecore (~> 0.5.0)
+  picklecore (~> 0.5.2)
   tzinfo-data
 
 BUNDLED WITH
