@@ -1,6 +1,7 @@
 ---
-layout: default_with_sidebar
+layout: default
 ---
+{% include components/binds/sidebar-anchor.html %}
 
 # Privacy by RDIL
 
