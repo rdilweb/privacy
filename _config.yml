@@ -17,3 +17,4 @@ exclude:
   - Gemfile
   - Gemfile.lock
 keywords: "privacy,rdil,blog,thoughts,writing"
+webmanifest: /manifest.json

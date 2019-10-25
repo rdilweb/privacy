@@ -1,0 +1,8 @@
+{
+    "short_name": "Privacy",
+    "name": "Privacy by RDIL",
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#303f9f",
+    "background_color": "#ffffff"
+}
