@@ -12,6 +12,7 @@ pgp: https://rdil.rocks/pgp.txt
 plugins:
   - jekyll-sitemap
   - jekyll-feed
+  - jekyll-last-modified-at
 exclude:
   - README.md
   - Gemfile

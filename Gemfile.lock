@@ -31,6 +31,9 @@ GEM
       jekyll (~> 3.0)
     jekyll-feed (0.12.1)
       jekyll (>= 3.7, < 5.0)
+    jekyll-last-modified-at (1.1.0)
+      jekyll (>= 3.7, < 5.0)
+      posix-spawn (~> 0.3.9)
     jekyll-relative-links (0.6.0)
       jekyll (~> 3.3)
     jekyll-sass-converter (1.5.2)
@@ -51,6 +54,7 @@ GEM
       jekyll (>= 3.5, < 5.0)
       jekyll-default-layout (= 0.1.4)
       jekyll-relative-links (= 0.6.0)
+    posix-spawn (0.3.13)
     public_suffix (4.0.1)
     rb-fsevent (0.10.3)
     rb-inotify (0.10.0)
@@ -72,6 +76,7 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll-feed
+  jekyll-last-modified-at
   jekyll-sitemap
   picklecore (~> 0.6.0)
   tzinfo-data
