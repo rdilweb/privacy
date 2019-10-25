@@ -42,6 +42,25 @@ which doesn't value consumer data over consumers. I would suggest going for an o
 * [Matomo](https://matomo.org/)
 * [Ping](https://github.com/parkr/ping)
 
+### Avoidance
+
+If you, as the consumer, want to avoid this tracking, you can go about this in many ways.
+At the **very least**, you should get the [Google Analytics opt-out extension](https://tools.google.com/dlpage/gaoptout), which disables it for the most part.
+The only problem is that this only blocks Google. To be completely private, you should use these tools:
+
+* [The Onion Router (TOR)](https://torproject.org) - a browser that uses multi-layered routing to send your traffic through different servers, in an encrypted fashion.
+* [Tails](https://tails.boum.org/) - an operating system based on Debian that routes all your traffic through TOR.
+* [DuckDuckGo](https://duckduckgo.com) - a search engine built on the concept that users shouldn't be tracked.
+
+Refuse to use TOR for some reason? That's honestly not a great option for privacy, but you can attempt to replicate its affect with [Firefox](https://mozilla.org/firefox) and these Firefox addons:
+
+* [HTTPS Everywhere](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/) - force encrypted connections to the sites you visit
+* [Adblock](https://addons.mozilla.org/en-US/firefox/addon/adblock-plus/) - block advertisments that can track you
+* [Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/) - automatically blocks trackers
+* [Facebook Container](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/) - lock Facebook in a box so it can't track you - while also allowing you to continue using Facebook
+
+These solutions should help out a *ton*.
+
 ## Contributing
 
 If you want to add to this document, you can open a Pull Request on GitHub. Any added content *must*:
