@@ -42,6 +42,12 @@ which doesn't value consumer data over consumers. I would suggest going for an o
 * [Matomo](https://matomo.org/)
 * [Ping](https://github.com/parkr/ping)
 
+### Advertisments
+
+Most advertising companies will attempt to track you, so that the ads you see are more tailored to your prefrences, views, etc.
+Remember: Their job is to get you to <span style="cursor: pointer" onClick="window.alert('Is this a joke to you?');"><i><b>click</b></i></span>.
+See the avoidance section on how to stop this!
+
 ### Avoidance
 
 If you, as the consumer, want to avoid this tracking, you can go about this in many ways.
@@ -60,6 +66,28 @@ Refuse to use TOR for some reason? That's honestly not a great option for privac
 * [Facebook Container](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/) - lock Facebook in a box so it can't track you - while also allowing you to continue using Facebook
 
 These solutions should help out a *ton*.
+
+## Telemetry
+
+### On an OS Level
+
+Telemetry is an interesting topic, one which I am not as an expert on, but I will still proceed with discussing as it deserves a mention.
+
+#### macOS / iOS
+
+To be honest, I don't think much information about it exists other then the fact that we can all agree it most likely exists.
+Apple hasn't really publically revealed (other then in the [4125-word privacy policy](/static/apple-privacy-policy), and I'm not a great reader so don't ask me to read it) what telemetry exactly exists.
+
+#### Windows
+
+Windows telemetry is more publically known. Windows 10 has practially been [built to spy on its users](https://www.forbes.com/sites/gordonkelly/2015/11/02/microsoft-confirms-unstoppable-windows-10-tracking/).
+When setting up Windows 10, unless you specifically opt-out of the sending of usage statistics, you can bet they will be sent.
+Not only that, but after setting up, you will need to head into settings to disable all the additional settings related to telemetry.
+Oh dear.
+
+#### Unix
+
+For Unix/Linux systems, it really just depends on the distro you are using. For that reason, I won't list them all here.
 
 ## Contributing
 
