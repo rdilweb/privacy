@@ -58,8 +58,8 @@ GEM
     multi_json (1.14.1)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
-    picklecore (0.7.1)
-      jekyll (>= 3.5, < 5.0)
+    picklecore (0.8.0)
+      jekyll (>= 3.5, < 4.0)
       jekyll-default-layout (= 0.1.4)
       jekyll-relative-links (= 0.6.0)
     posix-spawn (0.3.13)
@@ -105,7 +105,7 @@ DEPENDENCIES
   jekyll-last-modified-at
   jekyll-redirect-from
   jekyll-sitemap
-  picklecore (~> 0.7.1)
+  picklecore (~> 0.8.0)
   tzinfo-data
 
 BUNDLED WITH
