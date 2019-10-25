@@ -21,6 +21,27 @@ Second, any companies, organizations, or other entities mentioned in a negative 
 I do not mean to start any fights, wars, etc.
 I would like to start a conversation over this however!
 
+## Tracking on the Web
+
+### Analytics
+
+This first section is going to be about the topic I think that I know best, which is tracking on the web.
+I don't have a problem with a business getting how many times the same user has looked at a website, or how long they looked at it,
+what I am fighting against is products like Google Analytics.
+Google Analytics is marketed as the way to "Get to know your customers".
+This sounds great in concept, but in reality, it is much worse then anyone may assume at first glance.
+After scrolling down on the page, one can notice a subheader titled "Get insights only Google can give."
+This is essentially true, because Google builds data profiles on anybody it can get its tracking beacons on
+at a very large scale. Think about how many sites have Google Analytics on them. A *lot*.
+
+If you are a business, and you rely on Google Analytics right now, you should switch to a different provider,
+which doesn't value consumer data over consumers. I would suggest going for an open source product such as:
+
+* [Fathom](https://usefathom.com/)
+* [Annie](https://annieapp.co) - okay yeah this is a bit biased since I made it
+* [Matomo](https://matomo.org/)
+* [Ping](https://github.com/parkr/ping)
+
 ## Contributing
 
 If you want to add to this document, you can open a Pull Request on GitHub. Any added content *must*:
