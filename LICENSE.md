@@ -1,5 +1,4 @@
 ---
-redirect_from: /license
 ---
 
 # Creative Commons Attribution-ShareAlike 4.0 International License
