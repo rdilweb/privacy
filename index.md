@@ -111,17 +111,15 @@ If you want to add to this document, you can open a Pull Request on GitHub. Any 
 * Align with my privacy views - please don't open a pull request contradicting my thoughts. If you want to discuss it, either open an issue or email me.
 
 {%- assign date_format = "%b %-d, %Y" -%}
-{% if site.post.size > 0 %}
-    ## Blog Posts
+## Blog Posts
 
-    {% for post in site.posts %}
-        {%- assign purl = post.url | relative_url -%}
-        ### [{{ post.title | escape }}]({{ purl }})
+{% for post in site.posts %}
+    {%- assign purl = post.url | relative_url -%}
+    ### [{{ post.title | escape }}]({{ purl }})
 
-        Published {{ post.date | date: date_format }}.
+    Published {{ post.date | date: date_format }}.
 
-        {{ post.excerpt }}
+    {{ post.excerpt }}
 
-        [Read More...]({{ purl }})
-    {% endfor %}
-{% endif %}
+    [Read More...]({{ purl }})
+{% endfor %}
