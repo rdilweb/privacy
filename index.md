@@ -113,12 +113,11 @@ If you want to add to this document, you can open a Pull Request on GitHub. Any 
 ## Blog Posts
 
 {% for post in site.posts %}
-    {%- assign purl = post.url | relative_url -%}
-    ### [{{ post.title | escape }}]({{ purl }})
+    ### [{{ post.title | escape }}]({{ post.url | relative_url }})
 
     Published {{ post.date | date: "%b %-d, %Y" }}.
 
     {{ post.excerpt }}
 
-    [Read More...]({{ purl }})
+    [Read More...]({{ post.url | relative_url }})
 {% endfor %}
