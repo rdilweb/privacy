@@ -110,14 +110,13 @@ If you want to add to this document, you can open a Pull Request on GitHub. Any 
 * Follow the [code of conduct](./CODE_OF_CONDUCT.html)
 * Align with my privacy views - please don't open a pull request contradicting my thoughts. If you want to discuss it, either open an issue or email me.
 
-{%- assign date_format = "%b %-d, %Y" -%}
 ## Blog Posts
 
 {% for post in site.posts %}
     {%- assign purl = post.url | relative_url -%}
     ### [{{ post.title | escape }}]({{ purl }})
 
-    Published {{ post.date | date: date_format }}.
+    Published {{ post.date | date: "%b %-d, %Y" }}.
 
     {{ post.excerpt }}
 
