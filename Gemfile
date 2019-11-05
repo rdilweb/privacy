@@ -7,3 +7,4 @@ gem 'jekyll-feed'
 gem 'jekyll-redirect-from'
 gem 'jekyll-last-modified-at'
 gem 'tzinfo-data'
+gem 'wdm', '>= 0.1.1' if Gem.win_platform?
