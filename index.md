@@ -94,7 +94,7 @@ Here is a list of popular operating systems, and how they handle privacy:
 #### macOS / iOS
 
 To be honest, I don't think much information about it exists other then the fact that we can all agree it most likely exists.
-Apple hasn't really publically revealed (other then in the [4125-word privacy policy](/static/apple-privacy-policy), and I'm not a great reader so don't ask me to read it) what telemetry exactly exists.
+Apple hasn't really publically revealed (other then in the [4125-word privacy policy](/static/apple-privacy-policy-08292019.txt), and I'm not a great reader so don't ask me to read it) what telemetry exactly exists.
 
 #### Windows
 
