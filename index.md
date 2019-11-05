@@ -10,6 +10,23 @@ layout: home
 
 Welcome to my privacy page. Here you can find a lot of my thoughts on privacy and related concepts that I find important and fight for.
 
+## Table of Contents
+
+* [Foreword](#foreword)
+* [Tracking on the Web](#tracking-on-the-web)
+  * [Analytics](#analytics)
+  * [Advertisments](#advertisments)
+  * [Avoidance](#avoidance)
+* [Telemetry](#telemetry)
+  * [macOS / iOS](#macos--ios)
+  * [Windows](#windows)
+  * [Unix](#unix)
+* [AI](#ai)
+  * [For Good](#for-good)
+  * [For Bad](#for-bad)
+* [Contributing](#contributing)
+* [Blog Posts](#blog-posts)
+
 ## Foreword
 
 Hello!
@@ -44,6 +61,7 @@ which doesn't value consumer data over consumers. I would suggest going for an o
 ### Advertisments
 
 Most advertising companies will attempt to track you, so that the ads you see are more tailored to your prefrences, views, etc.
+For example: if an advertisment displaying a statement against your political views can convince you to click on it, then the advertiser can easily see that more advertising like it can help to convince or reinforce certain views.
 Remember: Their job is to get you to <span style="cursor: pointer" onClick="window.alert('Is this a joke to you?');"><i><b>click</b></i></span>.
 See the avoidance section on how to stop this!
 
@@ -68,10 +86,10 @@ These solutions should help out a *ton*.
 
 ## Telemetry
 
-The meaning of telemetry as used here is sending statistics to an individual, group, or organization online.
+The meaning of telemetry as used here is sending statistics to a software company online.
 Telemetry is an interesting topic, one which I am not as an expert on, but I will still proceed with discussing as it deserves a mention.
 
-### On an OS Level
+Here is a list of popular operating systems, and how they handle privacy:
 
 #### macOS / iOS
 
@@ -91,12 +109,12 @@ For Unix/Linux systems, it really just depends on the distro you are using. For 
 
 ## AI
 
-AI is a newly-emerging technology that has a lot of potential for good, and for bad.
+Artificial Inteligence is a newly-emerging technology that has a lot of potential for good, and for bad.
 
 ### For Good
 
 Good uses of AI include using it to discover new things, from [beers](https://youtube.com/watch?v=v9rT5O4U89Q) to new elements.
-This is a fine and responsible use of AI
+This is a fine and responsible use of AI.
 
 ### For Bad
 
