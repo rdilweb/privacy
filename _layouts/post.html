@@ -3,8 +3,10 @@ layout: default
 ---
 {% include components/binds/sidebar-anchor.html %}
 
-<h2>{{ post.title }}</h2>
+<h2>{{ page.title }}</h2>
 
-<code>By {{ post.author | escape | default: "Reece Dunham" }} - published {{ post.date | date: "%b %-d, %Y" }}.</code>
+By {{ page.author | escape | default: "Reece Dunham" }} - published {{ page.date | date: "%b %-d, %Y" }}.
+
+<hr />
 
 {{ content }}
