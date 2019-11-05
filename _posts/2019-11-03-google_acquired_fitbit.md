@@ -12,4 +12,4 @@ Recently, Google [acquired](https://www.engadget.com/2019/11/01/google-buys-fitb
 Google has stated that "Fitbit health and wellness data will not be used for Google ads," *although it will collect data, much as it does with its other platforms*.
 I personally feel uncomfortable hearing this, as an ex. Fitbit owner, I don't feel like my health data is in good hands now.
 
-All Fitbit owners should be aware of this, and make a decition for themselves about if it is worth keeping the Fitbit!
+All Fitbit owners should be aware of this, and make a decision for themselves about if it is worth keeping the Fitbit!
