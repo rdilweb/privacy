@@ -13,3 +13,13 @@ Google has stated that "Fitbit health and wellness data will not be used for Goo
 I personally feel uncomfortable hearing this, as an ex. Fitbit owner, I don't feel like my health data is in good hands now.
 
 All Fitbit owners should be aware of this, and make a decision for themselves about if it is worth keeping the Fitbit!
+
+---
+
+**Edit as of November 7th (2019)**:
+Fitbit support replied to me on Twitter, saying the following things:
+
+1. "1/2 Hi Reece. We'd like to help. We are committed to the same strong data privacy and security protections. You will be in control of your personal data, and we will remain transparent about the data we collect and why."
+1. "2/2 We never sell your personal information and Fitbit health and wellness data."
+
+Followed by a link to a help page.
