@@ -1,5 +1,5 @@
 ---
-title: Amazon, Ring, and AWS: the empire
+title: Amazon, Ring, and AWS
 date: 2019-11-14
 ---
 
