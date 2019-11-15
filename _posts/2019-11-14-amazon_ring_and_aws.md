@@ -17,7 +17,7 @@ If you think about it, based on these privacy violations, you very much could ca
 
 That isn't everything I have to note about Ring though. This excerpt from the article was also quite troubling to hear:
 "And it’s not just police who are watching. According to a report in Bloomberg News, Amazon has dozens of contract workers in India and Romania watching clips from Ring cameras, allegedly in an attempt to better train its artificial intelligence. How many people using Ring know that their private footage is being watched halfway around the world by random strangers?"
-Yeah. Yeash :frown:.
+Yeah. Yeash :open_mouth:.
 
 In light of hearing this, I personally would suggest against using Amazon more then you really need to, in order to limit the size of their data profiles, and will make sure to note these facts about Ring to potential users.
 
