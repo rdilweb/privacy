@@ -17,5 +17,6 @@ layout: default
             </a>
         </h3>
         {{ post.excerpt }}
+        <a href="{{ post.url | relative_url }}">Read More...</a>
     </li>
 {% endfor %}
