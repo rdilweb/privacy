@@ -7,7 +7,7 @@ title: Home
 
 <i class="fa fa-book" /> [Content License](./LICENSE.html)
 
-<i class="fab fa-github" /> [Improve this page (it's open source!)](https://github.com/RDIL/privacy)
+<i class="fab fa-github" /> [Improve this page (it's open source!)](https://github.com/rdilweb/privacy)
 
 Welcome to my privacy page. Here you can find a lot of my thoughts on privacy and related concepts that I find important and fight for.
 
