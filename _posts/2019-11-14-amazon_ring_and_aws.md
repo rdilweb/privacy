@@ -1,6 +1,7 @@
 ---
 title: Amazon, Ring, and AWS
 date: 2019-11-14
+author: Reece Dunham
 ---
 
 Amazon has grown to be a major company in the tech industry, and seemingly privacy hasn't been the biggest concern. It is now.
