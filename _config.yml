@@ -21,6 +21,8 @@ exclude:
   - README.md
   - Gemfile
   - Gemfile.lock
+  - .gitpod.Dockerfile
+  - .gitpod.yml
 keywords: "privacy,rdil,blog,thoughts,writing"
 webmanifest: /manifest.json
 permalink: /:title:output_ext
