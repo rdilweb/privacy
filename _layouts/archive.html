@@ -4,7 +4,7 @@ layout: default
 {% include components/binds/sidebar-anchor.html %}
 
 {% if page.type == "day" or page.type == "month" or page.type == "day" %}
-    <h1>Posts from </h1>
+    <h1>Posts from {{ page.date }}</h1>
 {% else %}
     <h1>Posts with {{ page.type }} '{{ page.title }}'</h1>
 {% endif %}
