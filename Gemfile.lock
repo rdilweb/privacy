@@ -103,6 +103,7 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
+  jekyll
   jekyll-admin
   jekyll-feed
   jekyll-last-modified-at

@@ -1,0 +1,12 @@
+image:
+  file: .gitpod.Dockerfile
+
+ports:
+- port: 4000
+
+tasks:
+- command: |
+    gem update
+    gem update --system
+    gem install bundler
+    bundler
