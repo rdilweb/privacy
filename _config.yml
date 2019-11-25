@@ -17,6 +17,7 @@ plugins:
   - jekyll-redirect-from
   - jekyll-admin
   - jekyll-last-modified-at
+  - jekyll-archives
 exclude:
   - README.md
   - Gemfile
@@ -26,3 +27,12 @@ exclude:
 keywords: "privacy,rdil,blog,thoughts,writing"
 webmanifest: /manifest.json
 permalink: /:title:output_ext
+jekyll-archives:
+  enabled: 'all'
+  layout: archive
+  permalinks:
+    year: '/:year/'
+    month: '/:year/:month/'
+    day: '/:year/:month/:day/'
+    tag: '/tag/:name/'
+    category: '/category/:name/'

@@ -3,6 +3,8 @@ layout: post
 title: "Google Acquired Fitbit"
 author: Reece Dunham
 date: "2019-11-03"
+category: acquisitions
+tag: google
 ---
 
 This is going to be a short post, but something I feel is important to discuss.

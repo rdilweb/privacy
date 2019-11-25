@@ -34,6 +34,8 @@ GEM
       jekyll (>= 3.3, < 5.0)
       sinatra (~> 1.4)
       sinatra-contrib (~> 1.4)
+    jekyll-archives (2.2.1)
+      jekyll (>= 3.6, < 5.0)
     jekyll-default-layout (0.1.4)
       jekyll (~> 3.0)
     jekyll-feed (0.13.0)
@@ -105,6 +107,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll
   jekyll-admin
+  jekyll-archives
   jekyll-feed
   jekyll-last-modified-at
   jekyll-redirect-from
