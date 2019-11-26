@@ -8,8 +8,8 @@ layout: default
 <h2 id="blog-posts">Blog Posts</h2>
 
 {% for post in site.posts %}
-    <li>
-        {%- assign date_format = "%b %-d, %Y" -%}
+    {%- assign date_format = "%B %-d, %Y" -%}
+    <div class="block-solid">
         <span>{{ post.date | date: date_format }}</span>
         <h3>
             <a href="{{ post.url | relative_url }}">
@@ -18,5 +18,5 @@ layout: default
         </h3>
         {{ post.excerpt }}
         <a href="{{ post.url | relative_url }}">Read More...</a>
-    </li>
+    </div>
 {% endfor %}

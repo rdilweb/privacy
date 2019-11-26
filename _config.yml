@@ -17,6 +17,7 @@ plugins:
   - jekyll-redirect-from
   - jekyll-last-modified-at
   - jekyll-archives
+  - jekyll-relative-links
 exclude:
   - README.md
   - Gemfile

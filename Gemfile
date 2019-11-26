@@ -1,6 +1,6 @@
 source 'https://rubygems.org/'
 
-gem 'picklecore', '~> 0.9.0'
+gem 'picklecore', '~> 0.10.0'
 gem 'jekyll'
 gem 'jekyll-sitemap'
 gem 'jekyll-feed'

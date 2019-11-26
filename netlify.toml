@@ -1,0 +1,4 @@
+[build]
+  base = ""
+  publish = "_site/"
+  command = "gem update && gem install bundler && bundler exec jekyll build"
