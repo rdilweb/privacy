@@ -3,9 +3,16 @@ layout: default
 ---
 {% include components/binds/sidebar-anchor.html %}
 
-{% if page.type == "day" or page.type == "month" or page.type == "year" %}
-    <h1>Posts from {{ page.date }}</h1>
-{% else %}
+{% if page.type == "year" %}
+    <h1>Posts from {{ page.date | date: "%Y" }}</h1>
+{% endif %}
+{% if page.type == "month" %}
+    <h1>Posts from {{ page.date | date: "%-d, %Y" }}</h1>
+{% endif %}
+{% if page.type == "day" %}
+    <h1>Posts from {{ post.date | date: "%b %-d, %Y" }}</h1>
+{% endif %}
+{% if page.type == "tag" or page.type == "category" %}
     <h1>Posts with {{ page.type }} {{ page.title }}</h1>
 {% endif %}
 
