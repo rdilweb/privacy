@@ -1,4 +1,6 @@
 ---
+layout: default-with-sidebar
+title: License
 ---
 
 # Creative Commons Attribution-ShareAlike 4.0 International License
