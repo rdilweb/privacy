@@ -3,16 +3,17 @@ layout: default
 ---
 {% include components/binds/sidebar-anchor.html %}
 
-{% if page.type == "day" or page.type == "month" or page.type == "day" %}
+{% if page.type == "day" or page.type == "month" or page.type == "year" %}
     <h1>Posts from {{ page.date }}</h1>
 {% else %}
-    <h1>Posts with {{ page.type }} '{{ page.title }}'</h1>
+    <h1>Posts with {{ page.type }} {{ page.title }}</h1>
 {% endif %}
 
 <ul class="posts">
     {% for post in page.posts %}
         <li>
             <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+            <span>-</span>
             <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </li>
     {% endfor %}
