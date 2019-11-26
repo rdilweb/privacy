@@ -2,7 +2,6 @@ source 'https://rubygems.org/'
 
 gem 'picklecore', '~> 0.9.0'
 gem 'jekyll'
-gem 'jekyll-admin'
 gem 'jekyll-sitemap'
 gem 'jekyll-feed'
 gem 'jekyll-redirect-from'

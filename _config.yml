@@ -15,7 +15,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-redirect-from
-  - jekyll-admin
   - jekyll-last-modified-at
   - jekyll-archives
 exclude:
