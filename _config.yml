@@ -9,7 +9,6 @@ twitter:
 github: RDIL
 email: me@rdil.rocks
 devto: rdil
-statuspage: https://status.rdil.rocks
 pgp: https://rdil.rocks/pgp.txt
 plugins:
   - jekyll-sitemap
