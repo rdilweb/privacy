@@ -10,6 +10,7 @@ github: RDIL
 email: me@rdil.rocks
 devto: rdil
 pgp: https://rdil.rocks/pgp.txt
+browserconfigxml: /browserconfig.xml
 plugins:
   - jekyll-sitemap
   - jekyll-feed
@@ -35,3 +36,7 @@ jekyll-archives:
     day: '/:year/:month/:day/'
     tag: '/tag/:name/'
     category: '/category/:name/'
+faviconbase: https://rdil.rocks/static/iconassets/
+favicons:
+  - "32"
+  - "64"
