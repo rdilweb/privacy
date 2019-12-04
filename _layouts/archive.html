@@ -11,7 +11,7 @@ title: "Post Archives"
     <h1>Posts from {{ page.date | date: "%-d, %Y" }}</h1>
 {% endif %}
 {% if page.type == "day" %}
-    <h1>Posts from {{ post.date | date: "%b %-d, %Y" }}</h1>
+    <h1>Posts from {{ page.date | date: "%b %-d, %Y" }}</h1>
 {% endif %}
 {% if page.type == "tag" or page.type == "category" %}
     <h1>Posts with {{ page.type }} '{{ page.title }}'</h1>
