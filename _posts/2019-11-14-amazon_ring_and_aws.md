@@ -29,3 +29,7 @@ As for AWS, I would suggest against using it to hold your data, host your websit
 Instead I would much rather try smaller companies, and sometimes even startups instead.
 
 You can draw your own conclusions, but I would steer clear of companies with these types of tactics and methods of making money and benefiting themselves by using customer data in a way like this.
+
+### Sources Cited
+
+* Timm, Trevor. "Amazon Is an Even Bigger Threat to Privacy Than Facebook." Medium GEN, 8 Nov. 2019, gen.medium.com/amazon-is-an-even-bigger-threat-to-privacy-than-facebook-a52638e9e314?gi=98cb99315b50.

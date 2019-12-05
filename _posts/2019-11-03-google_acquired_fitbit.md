@@ -24,4 +24,9 @@ Fitbit support replied to me on Twitter, saying the following things:
 1. "1/2 Hi Reece. We'd like to help. We are committed to the same strong data privacy and security protections. You will be in control of your personal data, and we will remain transparent about the data we collect and why."
 1. "2/2 We never sell your personal information and Fitbit health and wellness data."
 
-Followed by a link to a help page.
+Followed by a link to a [dedicated help page](https://help.fitbit.com/articles/en_US/Help_article/2448/).
+
+### Sources Cited
+
+* Cooper, Daniel. "Google Buys Fitbit for $2.1 Billion." Engadget, © 2019 Verizon Media., 2 Nov. 2019, www.engadget.com/2019/11/01/google-buys-fitbit.
+* "Help Article: Our Continued Commitment To Data Privacy and Security." Fitbit Help, © 2019 Fitbit Inc., help.fitbit.com/articles/en_US/Help_article/2448/. Accessed 3 Nov. 2019.

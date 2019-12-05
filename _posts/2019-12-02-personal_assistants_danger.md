@@ -13,3 +13,7 @@ This sheds light on a much bigger problem, the spying on users via these devices
 
 While I normally would write more, I'm going to end this here, as most of the information I could note would be redundant, due to recent news.
 That is all for today, so keep an eye out for my next post.
+
+### Sources Cited
+
+* Goodin, Dan. "Alexa and Google Home Abused to Eavesdrop and Phish Passwords." ARS Technica, © 2019 Condé Nast., 21 Oct. 2019, arstechnica.com/information-technology/2019/10/alexa-and-google-home-abused-to-eavesdrop-and-phish-passwords.
