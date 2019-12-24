@@ -36,7 +36,3 @@ jekyll-archives:
     day: '/:year/:month/:day/'
     tag: '/tag/:name/'
     category: '/category/:name/'
-faviconbase: https://rdil.rocks/static/iconassets/
-favicons:
-  - "32"
-  - "64"
