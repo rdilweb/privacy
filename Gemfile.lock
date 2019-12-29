@@ -56,12 +56,12 @@ GEM
     mercenary (0.3.6)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
-    picklecore (0.13.0)
-      jekyll (>= 3.5, < 4.0)
+    picklecore (0.14.0)
+      jekyll (>= 3.5, < 5)
       jekyll-default-layout (= 0.1.4)
       jekyll-relative-links (= 0.6.1)
     posix-spawn (0.3.13)
-    public_suffix (4.0.1)
+    public_suffix (4.0.2)
     rb-fsevent (0.10.3)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
@@ -88,7 +88,7 @@ DEPENDENCIES
   jekyll-last-modified-at
   jekyll-redirect-from
   jekyll-sitemap
-  picklecore (~> 0.13.0)
+  picklecore (~> 0.14.0)
   tzinfo-data
 
 BUNDLED WITH
