@@ -22,16 +22,16 @@ Welcome to my privacy page. Here you can find a lot of my thoughts on privacy an
   * [macOS / iOS](#macos--ios)
   * [Windows](#windows)
   * [Unix](#unix)
-* [AI](#ai)
-  * [For Good](#for-good)
-  * [For Bad](#for-bad)
 * [Contributing](#contributing)
 * [Blog Posts](#blog-posts)
 
+### Other Pages
+
+* [AI](/pages/ai.md)
+
 ## Foreword
 
-Hello!
-Thank you for coming.
+Hello! Thank you for coming.
 Before I begin, I need to say a few things.
 First, anything I say here is my personal opinion. This is only fact when stated.
 Second, any companies, organizations, or other entities mentioned in a negative light or what could be percieved as a negative feeling should not be attacked.
@@ -107,20 +107,6 @@ Oh dear.
 #### Unix
 
 For Unix/Linux systems, it really just depends on the distro you are using. For that reason, I won't list them all here.
-
-## AI
-
-Artificial Inteligence is a newly-emerging technology that has a lot of potential for good, and for bad.
-
-### For Good
-
-Good uses of AI include using it to discover new things, from [beers](https://youtube.com/watch?v=v9rT5O4U89Q) to new elements.
-This is a fine and responsible use of AI.
-
-### For Bad
-
-AI can also be used in awful ways, from powering facial recognition (why should the government need to know where you are at any given point??!) to [swaying entire elections](https://www.nytimes.com/interactive/2018/02/16/us/politics/russia-propaganda-election-2016.html).
-These uses *need* to be monitored, and checked on, otherwise they can be highly dangerous.
 
 ## Contributing
 

@@ -32,4 +32,4 @@ You can draw your own conclusions, but I would steer clear of companies with the
 
 ### Sources Cited
 
-* Timm, Trevor. "Amazon Is an Even Bigger Threat to Privacy Than Facebook." Medium GEN, 8 Nov. 2019, gen.medium.com/amazon-is-an-even-bigger-threat-to-privacy-than-facebook-a52638e9e314?gi=98cb99315b50.
+* Timm, Trevor. "Amazon Is an Even Bigger Threat to Privacy Than Facebook." Medium GEN, 8 Nov. 2019, gen.medium.com/amazon-is-an-even-bigger-threat-to-privacy-than-facebook-a52638e9e314.
