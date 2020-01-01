@@ -1,4 +1,4 @@
 [build]
   base = ""
   publish = "_site/"
-  command = "gem update && gem install bundler && bundle exec jekyll build"
+  command = "gem update --system && gem install bundler && bundle exec jekyll build"
