@@ -44,6 +44,8 @@ GEM
       jekyll (>= 3.3, < 5.0)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
+    jekyll-seo-tag (2.6.1)
+      jekyll (>= 3.3, < 5.0)
     jekyll-sitemap (1.4.0)
       jekyll (>= 3.7, < 5.0)
     jekyll-watch (2.2.1)
@@ -56,10 +58,11 @@ GEM
     mercenary (0.3.6)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
-    picklecore (0.14.0)
+    picklecore (0.15.3)
       jekyll (>= 3.5, < 5)
       jekyll-default-layout (= 0.1.4)
       jekyll-relative-links (= 0.6.1)
+      jekyll-seo-tag (= 2.6.1)
     posix-spawn (0.3.13)
     public_suffix (4.0.2)
     rb-fsevent (0.10.3)
@@ -88,8 +91,8 @@ DEPENDENCIES
   jekyll-last-modified-at
   jekyll-redirect-from
   jekyll-sitemap
-  picklecore (~> 0.14.0)
+  picklecore (~> 0.15.3)
   tzinfo-data
 
 BUNDLED WITH
-   2.0.2
+   2.1.4
