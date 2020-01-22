@@ -24,6 +24,7 @@ exclude:
   - Gemfile.lock
   - .gitpod.Dockerfile
   - .gitpod.yml
+browserconfigxml: /browserconfig.xml
 webmanifest: /manifest.json
 permalink: /:title:output_ext
 smartify: false
