@@ -1,8 +1,8 @@
 theme: picklecore
 name: Privacy by RDIL
 title: Privacy by RDIL
+tagline: A site for all my thoughts, complaints, and worries on privacy in our technology-dependent world.
 description: A site for all my thoughts, complaints, and worries on privacy in our technology-dependent world.
-index_on_google: true
 url: https://privacy.rdil.rocks
 twitter:
   username: rdil_pickle
@@ -10,7 +10,6 @@ github: RDIL
 email: me@rdil.rocks
 devto: rdil
 pgp: https://rdil.rocks/pgp.txt
-browserconfigxml: /browserconfig.xml
 plugins:
   - jekyll-sitemap
   - jekyll-feed
@@ -18,13 +17,13 @@ plugins:
   - jekyll-last-modified-at
   - jekyll-archives
   - jekyll-relative-links
+  - jekyll-seo-tag
 exclude:
   - README.md
   - Gemfile
   - Gemfile.lock
   - .gitpod.Dockerfile
   - .gitpod.yml
-keywords: "privacy,rdil,blog,thoughts,writing"
 webmanifest: /manifest.json
 permalink: /:title:output_ext
 jekyll-archives:
@@ -36,3 +35,4 @@ jekyll-archives:
     day: '/:year/:month/:day/'
     tag: '/tag/:name/'
     category: '/category/:name/'
+lang: en_US
