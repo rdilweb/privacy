@@ -2,8 +2,8 @@ ports:
 - port: 4000
 
 tasks:
-- command: |
+- init: |
     gem update
     gem update --system
     gem install bundler
-    bundler
+  command: bundler
