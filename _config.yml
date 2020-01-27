@@ -26,7 +26,7 @@ exclude:
   - .gitpod.yml
 browserconfigxml: /browserconfig.xml
 webmanifest: /manifest.json
-permalink: /:title:output_ext
+permalink: /pages/:title:output_ext
 smartify: false
 jekyll-archives:
   enabled: 'all'

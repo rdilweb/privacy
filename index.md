@@ -5,7 +5,7 @@ title: Home
 
 # Privacy by RDIL
 
-<i class="fa fa-book" /> [Content License](./LICENSE.html)
+<i class="fa fa-book" /> [Content License](/LICENSE/)
 
 <i class="fab fa-github" /> [Improve this page (it's open source!)](https://github.com/rdilweb/privacy)
 
@@ -27,7 +27,7 @@ Welcome to my privacy page. Here you can find a lot of my thoughts on privacy an
 
 ### Other Pages
 
-* [AI](/pages/ai.md)
+* [AI](/pages/ai/)
 
 ## Foreword
 
@@ -63,7 +63,7 @@ which doesn't value consumer data over consumers. I would suggest going for an o
 
 Most advertising companies will attempt to track you, so that the ads you see are more tailored to your prefrences, views, etc.
 For example: if an advertisment displaying a statement against your political views can convince you to click on it, then the advertiser can easily see that more advertising like it can help to convince or reinforce certain views.
-Remember: Their job is to get you to <span style="cursor: pointer" onClick="window.alert('Is this a joke to you?');"><i><b>click</b></i></span>.
+Remember: Their job is to get you to <span style="cursor: pointer; text-decoration: underline" onClick="window.alert('Did you read what I just said, or did you just click this to see what it does?');">click</span>.
 See the avoidance section on how to stop this!
 
 ### Avoidance
@@ -72,11 +72,11 @@ If you, as the consumer, want to avoid this tracking, you can go about this in m
 At the **very least**, you should get the [Google Analytics opt-out extension](https://tools.google.com/dlpage/gaoptout), which disables it for the most part.
 The only problem is that this only blocks Google. To be completely private, you should use these tools:
 
-* [The Onion Router (TOR)](https://torproject.org) - a browser that uses multi-layered routing to send your traffic through different servers, in an encrypted fashion.
+* [The Onion Router (Tor)](https://torproject.org/) - a browser that uses multi-layered routing to send your traffic through different servers, in an encrypted fashion.
 * [Tails](https://tails.boum.org/) - an operating system based on Debian that routes all your traffic through TOR.
-* [DuckDuckGo](https://duckduckgo.com) - a search engine built on the concept that users shouldn't be tracked.
+* [DuckDuckGo](https://duckduckgo.com/) - a search engine built on the concept that users shouldn't be tracked.
 
-Refuse to use TOR for some reason? That's honestly not a great option for privacy, but you can attempt to replicate its affect with [Firefox](https://mozilla.org/firefox) and these Firefox addons:
+Don't want to use Tor? That's honestly not a great option for privacy, but you can attempt to replicate its affect with [Firefox](https://mozilla.org/firefox) and these Firefox addons:
 
 * [HTTPS Everywhere](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/) - force encrypted connections to the sites you visit
 * [Adblock](https://addons.mozilla.org/en-US/firefox/addon/adblock-plus/) - block advertisments that can track you
@@ -95,7 +95,7 @@ Here is a list of popular operating systems, and how they handle privacy:
 #### macOS / iOS
 
 To be honest, I don't think much information about it exists other then the fact that we can all agree it most likely exists.
-Apple hasn't really publically revealed (other then in the [4125-word privacy policy](/static/apple-privacy-policy-08292019.txt), and I'm not a great reader so don't ask me to read it) what telemetry exactly exists.
+Apple hasn't really publically revealed (other then in the [4125-word privacy policy](/static/apple-privacy-policy-08292019.txt), and I'm not a great reader so don't ask me about it) what telemetry exactly exists.
 
 #### Windows
 
@@ -111,5 +111,5 @@ For Unix/Linux systems, it really just depends on the distro you are using. For 
 ## Contributing
 
 If you want to add to this site, you can open a Pull Request on GitHub. Any added content *must*:
-* Follow the [code of conduct](./CODE_OF_CONDUCT.html)
+* Follow the [code of conduct](/pages/code-of-conduct/)
 * Align with my privacy views - please don't open a pull request contradicting my thoughts. If you want to discuss it, either open an issue or email me.
