@@ -24,7 +24,7 @@ Fitbit support replied to me on Twitter, saying the following things:
 1. "1/2 Hi Reece. We'd like to help. We are committed to the same strong data privacy and security protections. You will be in control of your personal data, and we will remain transparent about the data we collect and why."
 1. "2/2 We never sell your personal information and Fitbit health and wellness data."
 
-Followed by a link to a [dedicated help page](https://help.fitbit.com/articles/en_US/Help_article/2448/).
+Followed by a link to [a dedicated help page](https://help.fitbit.com/articles/en_US/Help_article/2448/).
 
 ### Sources Cited
 
