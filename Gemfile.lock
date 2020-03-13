@@ -4,7 +4,7 @@ GEM
     addressable (2.7.0)
       public_suffix (>= 2.0.2, < 5.0)
     colorator (1.1.0)
-    concurrent-ruby (1.1.5)
+    concurrent-ruby (1.1.6)
     em-websocket (0.5.1)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
@@ -58,7 +58,7 @@ GEM
     mercenary (0.3.6)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
-    picklecore (0.16.4)
+    picklecore (0.16.5)
       jekyll (>= 3.5, < 5)
       jekyll-default-layout (= 0.1.4)
       jekyll-relative-links (= 0.6.1)
@@ -68,7 +68,7 @@ GEM
     rb-fsevent (0.10.3)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
-    rouge (3.15.0)
+    rouge (3.17.0)
     safe_yaml (1.0.5)
     sass (3.7.4)
       sass-listen (~> 4.0.0)
@@ -91,7 +91,7 @@ DEPENDENCIES
   jekyll-last-modified-at
   jekyll-redirect-from
   jekyll-sitemap
-  picklecore (~> 0.16.4)
+  picklecore (~> 0.16.5)
   tzinfo-data
 
 BUNDLED WITH
