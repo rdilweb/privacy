@@ -58,7 +58,7 @@ GEM
     mercenary (0.3.6)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
-    picklecore (0.16.5)
+    picklecore (0.17.0)
       jekyll (>= 3.5, < 5)
       jekyll-default-layout (= 0.1.4)
       jekyll-relative-links (= 0.6.1)
@@ -91,7 +91,7 @@ DEPENDENCIES
   jekyll-last-modified-at
   jekyll-redirect-from
   jekyll-sitemap
-  picklecore (~> 0.16.5)
+  picklecore (~> 0.17.0)
   tzinfo-data
 
 BUNDLED WITH
