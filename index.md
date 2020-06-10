@@ -1,6 +1,8 @@
 ---
 layout: home
 title: Home
+sidebar: true
+permalink: /
 ---
 
 # Privacy by RDIL
@@ -55,7 +57,6 @@ If you are a business, and you rely on Google Analytics right now, you should sw
 which doesn't value consumer data over consumers. I would suggest going for an open source product such as:
 
 * [Fathom](https://usefathom.com/)
-* [Annie](https://annieapp.co) - okay yeah this is a bit biased since I made it
 * [Matomo](https://matomo.org/)
 * [Ping](https://github.com/parkr/ping)
 

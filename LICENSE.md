@@ -1,5 +1,5 @@
 ---
-layout: default-with-sidebar
+layout: default
 title: License
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Code of Conduct"
+sidebar: true
 ---
 
 # Contributor Covenant Code of Conduct

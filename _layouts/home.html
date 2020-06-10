@@ -1,15 +1,16 @@
 ---
 layout: default
+sidebar: true
 ---
-{% include components/binds/sidebar-anchor.html %}
 
 {{ content }}
 
 <h2 id="blog-posts">Blog Posts</h2>
 
-{% for post in site.posts %}
-    {%- assign date_format = "%B %-d, %Y" -%}
-    <div class="block-solid">
+<div class="cards">
+    {% for post in site.posts %}
+        {%- assign date_format = "%B %-d, %Y" -%}
+        {% include components/startcard.html %}
         <span>{{ post.date | date: date_format }}</span>
         <h3>
             <a href="{{ post.url | relative_url }}">
@@ -18,5 +19,6 @@ layout: default
         </h3>
         {{ post.excerpt }}
         <a href="{{ post.url | relative_url }}">Read More...</a>
-    </div>
-{% endfor %}
+        {% include components/endcard.html %}
+    {% endfor %}
+</div>

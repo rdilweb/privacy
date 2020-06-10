@@ -1,6 +1,6 @@
 ---
 title: AI
-layout: default-with-sidebar
+layout: default
 ---
 
 ## AI

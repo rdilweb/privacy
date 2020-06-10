@@ -8,12 +8,9 @@ twitter:
   username: rdil_pickle
 github: RDIL
 email: me@rdil.rocks
-devto: rdil
-pgp: https://rdil.rocks/pgp.txt
 plugins:
   - jekyll-sitemap
   - jekyll-feed
-  - jekyll-redirect-from
   - jekyll-last-modified-at
   - jekyll-archives
   - jekyll-relative-links
@@ -26,7 +23,6 @@ exclude:
   - .gitpod.Dockerfile
   - .gitpod.yml
 browserconfigxml: /browserconfig.xml
-webmanifest: /manifest.json
 permalink: /pages/:title:output_ext
 smartify: false
 jekyll-archives:
@@ -40,3 +36,4 @@ jekyll-archives:
     category: '/category/:name/'
 lang: en_US
 license_page: /LICENSE/
+skin: dark
