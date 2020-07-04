@@ -30,6 +30,7 @@ Welcome to my privacy page. Here you can find a lot of my thoughts on privacy an
 ### Other Pages
 
 * [AI](/pages/ai/)
+* [Ethical Advertisements](/pages/ethical-ads/)
 
 ## Foreword
 
