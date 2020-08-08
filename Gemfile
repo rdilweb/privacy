@@ -8,4 +8,5 @@ gem 'jekyll-last-modified-at'
 gem 'jekyll-archives'
 gem 'jekyll-admin'
 gem 'tzinfo-data'
+gem 'kramdown-parser-gfm'
 gem 'wdm', '>= 0.1.1' if Gem.win_platform?
