@@ -1,7 +1,6 @@
 ---
 layout: home
 title: Home
-sidebar: true
 permalink: /
 ---
 
