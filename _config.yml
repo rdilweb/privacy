@@ -15,7 +15,6 @@ plugins:
   - jekyll-archives
   - jekyll-relative-links
   - jekyll-seo-tag
-  - jekyll-admin
 exclude:
   - README.md
   - Gemfile
