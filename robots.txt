@@ -1,3 +1,0 @@
-User-agent: *
-Allow: *
-Sitemap: https://privacy.rdil.rocks/sitemap.xml
